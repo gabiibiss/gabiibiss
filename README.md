@@ -1,16 +1,12 @@
-## Hi there 👋
+olá, meu nome é Gabrielli.🍒
 
-<!--
-**gabiibiss/gabiibiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- gosto de:
+-  escutar musica 🎵
+- ver filmes 📽️
+- cozinhar 🍪
+- ler 📖
+- coca-cola 🥤
+- jogar 🎮
+- passear com meus cachorros🐕
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![](https://media1.tenor.com/m/SFj-19Vp3YkAAAAC/kiss-flying.gif)
